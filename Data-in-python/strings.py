@@ -13,5 +13,11 @@ print("$") # single character
 nill = ""  # prints an empty space hence note that python is sentitive with even space 
 print(nill) # prints an empty line
 
-Triple = """ this is tiple quatation string"""
-print(Triple)
+Triple = """This is tiple quatation string"""
+print(Triple) # amaizingly it printed
+
+## The length of a strings can be defined using len()built-in function.
+
+# Here is an example of knowing a length
+
+print(len(Triple)) 
