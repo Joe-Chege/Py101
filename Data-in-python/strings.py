@@ -37,5 +37,18 @@ The index must be closed within square brackets, [], and appended to the string.
 """
 # Here is an example of accesing characters with the help of indexing
 example = 'accessing characters'
-fifth= example [4] # accessing the first character
+fifth= example [4] # accessing the fifth character 
+#Always remember Python is indexed from 0 to n-1 where n is its length
 print(fifth)
+
+## Reverse Indexing 
+"""We can also change our indexing convention by using negative indices.
+Negative indices start from the opposite end of the string. 
+Hence, the -1 index corresponds to the last character 
+"""
+# Here is an example 
+
+reverse = 'negative indexing'
+
+print(reverse[-2])
+print(reverse[-5])
