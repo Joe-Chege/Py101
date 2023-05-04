@@ -28,3 +28,19 @@ flt_pt = 1.23456789
 print(flt_pt)
 
 
+"""  Complex Numbers
+Python  supports complex numbers, or numbers made up of a real and an imaginary part.
+It requires two values. The first one will be the real part of the complex number,
+while the second value will be the imaginary part.
+"""
+
+# Here is an example of learnig complex numbers
+
+print(complex(10, 20))  # Represents the complex number (10 + 20j)
+print(complex(2.5, -18.2))  # Represents the complex number (2.5 - 18.2j)
+
+complex_1 = complex(0, 2)
+complex_2 = complex(2, 0)
+print(complex_1)
+print(complex_2)
+
