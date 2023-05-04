@@ -20,4 +20,22 @@ print(Triple) # amaizingly it printed
 
 # Here is an example of knowing a length
 
-print(len(Triple)) 
+print(len(Triple)) # the lenth of triple string is 30
+
+## Indexing 
+
+"""
+In a string, every character is given a numerical index based on its position.
+A string in Python is indexed from 0 to n-1 where n is its length.
+This means that the index of the first character in a string is 0.
+"""
+
+## Accessing Characters 
+"""
+Each character in a string can be accessed using its index. 
+The index must be closed within square brackets, [], and appended to the string.
+"""
+# Here is an example of accesing characters with the help of indexing
+example = 'accessing characters'
+fifth= example [4] # accessing the first character
+print(fifth)
