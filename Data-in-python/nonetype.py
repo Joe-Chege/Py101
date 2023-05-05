@@ -9,7 +9,7 @@ None is not 0.
 """
 # Here is an example of nonetype
 
-val = None
+val = None # Note we didnt use quatation marks
 print(val) # prints "None" and returns None
 print (type(val))
 

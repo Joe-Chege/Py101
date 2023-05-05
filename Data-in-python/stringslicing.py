@@ -42,6 +42,6 @@ If end is not provided, the substring will begin from the start index and go all
 #n# here ia an example 
 
 string = "one of this days i will so good in this that nations will look for me"
-print(string[:5]) #
-print(string[4:])
-print(string[:])
+print(string[:5]) # outputs all characters before f
+print(string[4:]) # outputs from of all the way to the end of the string
+print(string[:]) # prints all the strings 

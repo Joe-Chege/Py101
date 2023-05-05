@@ -50,5 +50,5 @@ Hence, the -1 index corresponds to the last character
 
 reverse = 'negative indexing'
 
-print(reverse[-2])
+print(reverse[-2]) # the reverse starts from the end of the line
 print(reverse[-5])
