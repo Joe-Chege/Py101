@@ -4,7 +4,6 @@ matunda = [
     'finesi',
     'chungwa',
     'ndizi',
-
 ]
 
 
